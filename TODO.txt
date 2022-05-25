@@ -1,3 +1,5 @@
 TODO:
 Work with 2 developers
+merge
+conflict
 create merge conflict
